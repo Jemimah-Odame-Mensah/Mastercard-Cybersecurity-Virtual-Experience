@@ -40,7 +40,8 @@ The simulation aimed to educate Mastercard employees on how to detect and avoid 
 - Based on the simulation results, I designed and implemented a security awareness training program tailored to the two most vulnerable teams (HR and Marketing). The training focused on:
     - Educating employees on how to spot phishing emails, emphasizing subtle tactics that attackers use, such as masked links and urgent-sounding language.
     - Reinforcing the importance of reporting suspicious emails to IT immediately, rather than interacting with them.
-- I created a short, impactful presentation (3-5 slides) that included real examples from the phishing simulation to demonstrate the risks and educate employees on avoiding future threats.
+- I created a short, impactful presentation that included real examples from the phishing simulation to demonstrate the risks and educate employees on avoiding future threats.
+<a href="https://docs.google.com/presentation/d/1W6PlVeBqMJlCTZ_MB4JF3wetgtXsDUv4/edit?usp=sharing&ouid=106145505715093302769&rtpof=true&sd=true">View the presentation slides</a>
 
 ## Skills Acquired
 
