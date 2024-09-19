@@ -18,12 +18,22 @@ The simulation aimed to educate Mastercard employees on how to detect and avoid 
     - Masking the phishing link within legitimate-looking text (e.g., "Review Activity") to increase the chances of the recipient clicking the link.
     - Ensuring the email appeared professional, with proper spelling, grammar, and a more legitimate sender address (e.g., ITDepartment@mastercard.com).
 
+  ![obvious fake](https://github.com/user-attachments/assets/58f015c8-34ab-4287-a601-61339f47a751)
+  *Ref 1: Obvious fake phishing email*
+
+
+ ![Improved phishing email](https://github.com/user-attachments/assets/827487e1-0e92-45ce-b46c-6d2e5cde6b52)
+*Ref 2: Improved phishing email*
+
 ### 2. Analyzing the Results of the Phishing Simulation:
 
 - After running the phishing simulation, I analyzed the email open rates, click-through rates, and phishing success rates across various departments. The results helped identify which teams were most vulnerable to phishing attempts:
     - *HR Department*: Had the highest phishing success rate, indicating a critical need for additional training.
     - *Marketing and Card Services Departments*: Also displayed a higher-than-average phishing success rate, suggesting they needed targeted training to reduce risks.
 - Using the data, I provided insights on which teams needed more awareness about phishing threats and which were relatively secure.
+
+ ![phishing results](https://github.com/user-attachments/assets/e71afe44-2f96-47a2-9c70-33679264a00f)
+*Ref 3: Phishing simulation result*
 
 ### 3. Security Awareness Training:
 
